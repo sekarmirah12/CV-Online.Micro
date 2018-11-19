@@ -7,3 +7,13 @@ C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Mic
 C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.Core\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.Core\obj\Debug\CVOnline.Micro.Core.exe
 C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.Core\obj\Debug\CVOnline.Micro.Core.pdb
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\bin\Debug\CVOnline.Micro.Core.exe.config
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\bin\Debug\CVOnline.Micro.Core.exe
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\bin\Debug\CVOnline.Micro.Core.pdb
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\obj\Debug\CVOnline.Micro.Core.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\obj\Debug\CVOnline.Micro.Core.exe
+C:\Users\LENOVO\Pictures\Bootcamp20.Micro\cv\CV-Online.Micro\CVOnline.Micro.Core\obj\Debug\CVOnline.Micro.Core.pdb
