@@ -1,0 +1,9 @@
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\bin\Debug\CVOnline.Micro.BussinessLogic.exe.config
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\bin\Debug\CVOnline.Micro.BussinessLogic.exe
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\bin\Debug\CVOnline.Micro.BussinessLogic.pdb
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\obj\Debug\CVOnline.Micro.BussinessLogic.exe
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\CVOnline.Micro\CVOnline.Micro.BussinessLogic\obj\Debug\CVOnline.Micro.BussinessLogic.pdb
